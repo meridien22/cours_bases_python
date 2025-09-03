@@ -6,4 +6,5 @@ age = 90
 
 print(f"Bonjour, je m'appelle {prenom} {nom} et j'ai {age} ans.")
 
-test3
+print(type(nom))
+print(type(age))
