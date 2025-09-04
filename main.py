@@ -1,5 +1,5 @@
-import calculator.operations
+from calculator.operations import mul
 
 if __name__ == '__main__':
-    resultat = calculator.operations.mul(10, 10)
+    resultat = mul(10, 10)
     print(resultat)
